@@ -1,0 +1,26 @@
+[Adblock Plus 2.1]
+! Title: BanList
+! Last Modified: 20140111
+! Homepage: https://github.com/yimike/BanList
+!
+! Personal adblock list for ABP.
+!
+! coding: utf-8, expires: 7 days
+!----GNU LGPL Licensed, NO WARRANTY but Best Wishes----
+!-------------------White List-------------------------
+@@||biotherm.com.cn^$document
+!-------------------Global Rule------------------------
+||google-analytics.com
+!-------------------Third-party Rule-------------------
+||apis.google.com^$third-party
+||facebook.com/plugins^$third-party
+||bdimg.share.baidu.com/static/js^$third-party
+||nsimg.net^$third-party
+||guduopu.com^$third-party
+||jmsyzj.com^$third-party
+||s.yytcdn.com/swf/partner/
+!------------------Site Rule---------------------------
+!---weibo.com
+weibo.com##.WB_feed_type.SW_fun.W_no_border
+weibo.com##.WB_feed_together
+weibo.com###pl_content_biztips
