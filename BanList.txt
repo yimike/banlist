@@ -1,6 +1,7 @@
 [Adblock Plus 2.1]
 ! Title: BanList
-! Last Modified: 20140111
+! Version: 20140111
+! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/yimike/BanList
 !
 ! Personal adblock list for ABP.
