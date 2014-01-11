@@ -12,6 +12,8 @@
 @@||biotherm.com.cn^$document
 !-------------------Global Rule------------------------
 ||google-analytics.com
+||s.yytcdn.com/swf/partner
+||115img.com/static/delivery
 !-------------------Third-party Rule-------------------
 ||apis.google.com^$third-party
 ||facebook.com/plugins^$third-party
@@ -19,7 +21,7 @@
 ||nsimg.net^$third-party
 ||guduopu.com^$third-party
 ||jmsyzj.com^$third-party
-||s.yytcdn.com/swf/partner/
+||youxi.bdimg.com^$third-party
 !------------------Site Rule---------------------------
 !---weibo.com
 weibo.com##.WB_feed_type.SW_fun.W_no_border
