@@ -1,11 +1,11 @@
 [Adblock Plus 2.1]
 ! Title: BanList
-! Version: 20140111r5
+! Version: 20140111r6
 ! Expires: 7 days (update frequency)
-! Homepage: http://yimike.github.io/BanList
+! Homepage: http://yimike.github.io/banlist
 ! Personal adblock list for ABP.
-! Ver.20140111r5 coding: utf-8, expires: 7 days
-! http://yimike.github.io/BanList
+! Ver.20140111r6 coding: utf-8, expires: 7 days
+! http://yimike.github.io/banlist
 !-------------------White List-------------------------
 @@||biotherm.com.cn^$document
 !-------------------Global Rule------------------------
