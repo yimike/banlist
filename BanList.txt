@@ -14,7 +14,7 @@
 ||yytcdn.com/js/cnzzstat.js
 ||yytcdn.com/js/bdtj.js
 ||yytcdn.com/uploads/page_advertisement^$object-subrequest
-||yytcdn.com/user/bugles^$image
+||yytcdn.com/user/bugles^$object-subrequest
 ||115img.com/static/delivery
 !-------------------Third-party Rule-------------------
 ||apis.google.com^$third-party
