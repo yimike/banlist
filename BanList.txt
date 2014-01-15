@@ -1,15 +1,16 @@
 [Adblock Plus 2.1]
 ! Title: BanList
-! Version: 20140113r5
+! Version: 20140115r1
 ! Expires: 2 days (update frequency)
 ! Homepage: http://yimike.github.io/banlist
 ! Personal adblock list for ABP.
-! Ver.20140113r5 coding: utf-8, expires: 2 days
+! Ver.20140115r1 coding: utf-8, expires: 2 days
 ! http://yimike.github.io/banlist
 !-------------------White List-------------------------
 @@||biotherm.com.cn^$document
+@@||http://vip.xunlei.com/^$document
+@@||http://mall.cmbchina.com/^$document
 !-------------------Global Rule------------------------
-||google-analytics.com
 ||yytcdn.com/js/cnzzstat.js
 ||yytcdn.com/js/bdtj.js
 ||yytcdn.com/swf/partner^$object-subrequest
@@ -18,6 +19,12 @@
 ||yinyuetai.com/partner^$object-subrequest
 ||115img.com/static/delivery
 !-------------------Third-party Rule-------------------
+||50bang.org^$third-party
+||doubleclick.*^$third-party
+||googleadsserving.*^$third-party
+||googleadservices.*^$third-party
+||google-analytics.*^$third-party
+||googlesyndication.*^$third-party
 ||apis.google.com^$third-party
 ||facebook.com/plugins^$third-party
 ||bdimg.share.baidu.com/static/js^$third-party
@@ -30,4 +37,16 @@
 weibo.com##.WB_feed_type.SW_fun.W_no_border
 weibo.com##.WB_feed_together
 weibo.com###pl_content_biztips
-
+!---anywlan.com
+anywlan.com##.bscekvofc_o.wp
+!---runsky.com
+runsky.com##.wp.a_t
+runsky.com###bbsadv_index_header
+runsky.com###bbsadv_public_header
+runsky.com###bbsadv_forumdisplay_header
+runsky.com###bbsadv_viewthread_floor_rooms_1
+runsky.com###bbsadv_viewthread_floor_rooms_2
+runsky.com###bbsadv_viewthread_floor_rooms_3
+runsky.com###bbsadv_viewthread_floor_rooms_4
+!---missyuan
+missyuan.com##.spaceborder
