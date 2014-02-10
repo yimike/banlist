@@ -1,10 +1,10 @@
 [Adblock Plus 2.1]
 ! Title: BanList
-! Version: 20140201r1
+! Version: 201402010r1
 ! Expires: 2 days (update frequency)
 ! Homepage: http://yimike.github.io/banlist
 ! Personal adblock list for ABP.
-! Ver.20140201r1 coding: utf-8, expires: 2 days
+! Ver.20140210r1 coding: utf-8, expires: 2 days
 ! http://yimike.github.io/banlist
 !-------------------White List-------------------------
 @@||biotherm.com.cn^$document
@@ -36,6 +36,7 @@
 ||jmsyzj.com^$third-party
 ||youxi.bdimg.com^$third-party
 ||btyou.com^$third-party
+||platform.twitter.com^$third-party
 !------------------Site Rule---------------------------
 !---weibo.com
 weibo.com##.WB_feed_type.SW_fun.W_no_border
