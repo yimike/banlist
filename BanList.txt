@@ -99,3 +99,13 @@ zimuzu.tv###cproIframe2004holder
 ||zimuzu.tv/public/rooms*
 !---pcbeta.com
 ||cdn.pcbeta.js.inimc.com//data/cache/jquery.js*
+!---feng.com
+bbs.feng.com##.section_panel
+bbs.feng.com##.order_panel
+bbs.feng.com##.inner
+bbs.feng.com##.wrap.bbs_notices
+bbs.feng.com##.header_treasure
+bbs.feng.com###store_products
+bbs.feng.com##.wrap[style="display: block;background:#fff;box-shadow: 0 1px 3px #BCBCBC;margin: 0 auto 10px;padding: 10px 0 5px;overflow: hidden;text-align: center;"]
+feng.com##.ad_1000
+feng.com##.ad_654
