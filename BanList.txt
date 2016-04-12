@@ -1,10 +1,10 @@
 [Adblock Plus 2.1]
 ! Title: BanList
-! Version: 20160412r2
+! Version: 20160413r1
 ! Expires: 2 days (update frequency)
 ! Homepage: http://yimike.github.io/banlist
 ! Personal adblock list for ABP.
-! Ver.20160412r2 coding: utf-8, expires: 2 days
+! Ver.20160413r1 coding: utf-8, expires: 2 days
 ! http://yimike.github.io/banlist
 !-------------------White List-------------------------
 @@||biotherm.com.cn^$document
@@ -117,6 +117,3 @@ jmbbs.com##DIV[style="width:980px;margin:8px auto 0;"]
 zimuzu.tv##DIV[style="text-align:center;"]
 zimuzu.tv##DIV[style="margin:10px 0 0;text-align:center;"]
 !--cnbeta.com
-cnbeta.com##[id^="mask"]
-@@/jquery.$domain=www.cnbeta.com
-@@||cnbeta.com/assets/js/pages/article.js
