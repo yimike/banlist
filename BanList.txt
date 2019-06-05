@@ -1,6 +1,6 @@
 [Adblock Plus 2.1]
 ! Title: BanList
-! Version: 20190605r1
+! Version: 20190605r2
 ! Expires: 3 days (update frequency)
 ! Homepage: http://yimike.github.io/banlist
 ! Personal adblock list for ABP.
@@ -37,6 +37,12 @@
 ||dck8.com
 ||jxjcdd.cn
 ||mzran.com.cn
+||ninsha.cn
+||ns388.com
+||syhxdbj.cn
+||xiwnu.cn
+||duoyi.com
+||netsop.cn
 !-------------------Third-party Rule-------------------
 ||50bang.org^$third-party
 ||doubleclick.*^$third-party
