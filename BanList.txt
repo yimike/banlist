@@ -54,6 +54,7 @@
 ||sfscooter.cn
 ||86yp.cn
 ||m08pe.cn
+||sdamxz.xyz
 !-------------------Third-party Rule-------------------
 ||50bang.org^$third-party
 ||doubleclick.*^$third-party
