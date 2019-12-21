@@ -1,10 +1,10 @@
 [Adblock Plus 2.1]
 ! Title: BanList
-! Version: 20191216
+! Version: 20191221
 ! Expires: 3 days (update frequency)
 ! Homepage: http://yimike.github.io/banlist
 ! Personal adblock list for ABP.
-! Ver.20191216 coding: utf-8, expires: 3 days
+! Ver.20191221 coding: utf-8, expires: 3 days
 ! http://yimike.github.io/banlist
 !-------------------White List-------------------------
 @@||biotherm.com.cn^$document
@@ -53,6 +53,7 @@
 ||cmmob.cn
 ||sfscooter.cn
 ||86yp.cn
+||m08pe.cn
 !-------------------Third-party Rule-------------------
 ||50bang.org^$third-party
 ||doubleclick.*^$third-party
